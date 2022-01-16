@@ -70,4 +70,4 @@ The video where we demonstrate the product in details can be accessed at this li
 ## Contributors
 - Khac Minh Dang Le: [https://github.com/LKMDang](https://github.com/LKMDang)
 - Chan Duong Van: [https://github.com/shinyo-dc](https://github.com/shinyo-dc)
-- Phuc Khanh Huynh: 
+- Phuc Khanh Huynh: [https://github.com/hphuckhanh](https://github.com/hphuckhanh)
